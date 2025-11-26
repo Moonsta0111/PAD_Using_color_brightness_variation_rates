@@ -31,12 +31,4 @@
 
 https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12132276
 
-### 📝 논문 인용 (Citation)
 
-논문을 인용할 때는 다음과 같이 표기할 수 있습니다.
-
-```text
-Moonseung Choi, Sun-hong Min, Taeseok Jeong, and Yonggang Kim,
-“Human Identification Method Using Color and Brightness Variation Rates
-of Facial Sections Based on a Single Camera,”
-Korea Information and Communications Society Winter Conference, 2025.
