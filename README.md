@@ -29,7 +29,7 @@
 ### 📄 논문 및 발표 정보
 본 프로젝트는 2024년도 동계 KICS 포스터 세션에서 발표되었습니다. 연구 논문은 아래에서 확인할 수 있습니다.
 
-https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12132276
+https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12132285
 
 
 
